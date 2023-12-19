@@ -6,7 +6,7 @@ _**## Getting Started 🚀**_
 
 _**### Prerequisites**_
 Make sure you have the following installed on your system:
-- Python (3.x recommended) 🐍
+- Python (4.x recommended) 🐍
 - Selenium WebDriver 🕹️
 - A compatible web browser driver (ChromeDriver, GeckoDriver, etc.) 🌐
 
